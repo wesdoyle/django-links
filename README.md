@@ -36,3 +36,9 @@ Useful and interesting links to Django-related blogs
 ## useful repos
 
 [rosarior / awesome-django](https://github.com/rosarior/awesome-django)
+
+## twitter
+
+[Awesome Django](https://twitter.com/AwesomeDjango)
+
+
